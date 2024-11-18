@@ -1,0 +1,15 @@
+[package]
+authors = ["Daniel García Moreno <dani@danigm.net>"]
+description = """
+Library to support the reading of epub files.
+"""
+documentation = "https://docs.rs/epub/"
+exclude = ["test.epub"]
+keywords = ["epub", "ebook"]
+license = "GPL-3.0"
+name = "epub"
+repository = "https://github.com/danigm/epub-rs.git"
+version = "2.1.2"
+edition = "2021"
+
+[dependencies]
